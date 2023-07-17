@@ -1,5 +1,7 @@
 package designPatterns.factory.simple
 
+import designPatterns.factory.Pizza
+
 class PepperoniPizza : Pizza {
     override fun prepare() {
         println("Preparing Pepperoni Pizza")

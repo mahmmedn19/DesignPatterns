@@ -1,4 +1,4 @@
-package designPatterns.factory.simple
+package designPatterns.factory
 
 interface Pizza {
     fun prepare()
